@@ -1,7 +1,5 @@
 [[redirects]]
-from ="/roadmap.html"
-from ="/description.html"
-from ="/img.html"
+from ="/*"
 to ="/index.html"
 status = 200
 
