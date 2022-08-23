@@ -1,0 +1,4 @@
+[[redrict]]
+from ="/*"
+to ="images.html"
+status = 200
