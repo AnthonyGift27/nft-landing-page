@@ -1,0 +1,4 @@
+[[redirect]]
+from ="*/"
+to ="roadmap.html"
+status = 200
